@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/chen-hao/miniconda3/envs/laborhelper/bin/python",
+  "python.terminal.activateEnvironment": true
+}
